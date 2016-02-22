@@ -17,7 +17,7 @@
   table.table-ezr tbody tr td:first-child a{ 
     color: #1ABC9C;
   }
-  table.table-ezr tbody tr .td-erz:before { 
+  table.table-ezr tbody tr .td-ezr:before { 
     content: attr(data-th); 
     font-weight: bold;
     width: 6rem;

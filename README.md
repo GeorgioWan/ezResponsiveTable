@@ -1,6 +1,6 @@
 # ezResponsiveTable
 If you need a EASY way to **Responsive** your table.
-You can give **ezRtable.css** a shot :gun:
+You can give **ezRtable** a shot :gun:
 
 ### Usage
  1. Import or copy **ezRtable.css** & **ezRtable.js** into your project.
